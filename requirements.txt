@@ -1,0 +1,18 @@
+# Core data science packages
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization packages
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Statistical analysis
+statsmodels>=0.13.0
+
+# Streamlit web app framework
+streamlit>=1.28.0
+
+# Jupyter/IPython support (optional for development)
+ipython>=8.0.0
+jupyter>=1.0.0
